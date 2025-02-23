@@ -9,24 +9,24 @@ Enable administrators to oversee doctors and appointments.
 Integrate online payment gateways for seamless transactions.
 
 3. Tools and Technologies Used
-To build the Doctor Appointment Booking System, the following tools and technologies were used:
+   To build the Doctor Appointment Booking System, the following tools and technologies were used:
 
-Frontend Development
-React.js – Component-based UI development
-React Router – Navigation and routing
-Tailwind CSS / Material UI – UI design and styling
-Redux/Context API – State management
+   Frontend Development
+   React.js – Component-based UI development
+   React Router – Navigation and routing
+   Tailwind CSS / Material UI – UI design and styling
+   Redux/Context API – State management
 
-Backend Development
-Node.js – Server-side runtime environment
-Express.js – Backend framework for handling API requests
-JWT (JSON Web Token) – Secure user authentication
-Bcrypt.js – Password encryption and hashing
+   Backend Development
+   Node.js – Server-side runtime environment
+   Express.js – Backend framework for handling API requests
+   JWT (JSON Web Token) – Secure user authentication
+   Bcrypt.js – Password encryption and hashing
 
-Database & Storage
-MongoDB Atlas – Cloud database solution
-Mongoose – ORM for managing MongoDB schemas
-GridFS – File storage for medical records 
+   Database & Storage
+   MongoDB Atlas – Cloud database solution
+   Mongoose – ORM for managing MongoDB schemas
+   GridFS – File storage for medical records 
 
 4. Features
 Patient Features
