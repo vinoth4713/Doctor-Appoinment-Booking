@@ -27,6 +27,7 @@ Database & Storage
 MongoDB Atlas – Cloud database solution
 Mongoose – ORM for managing MongoDB schemas
 GridFS – File storage for medical records 
+
 4. Features
 Patient Features
 User registration and login (JWT Authentication)
